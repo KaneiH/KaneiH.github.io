@@ -1,0 +1,87 @@
+.misson_wrapper {
+  width: 100%;
+  height: 400px;
+}
+
+.misson h2{
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+      font-size: 60px;
+      font-weight: lighter;
+      float: left;
+      position: absolute;
+      top: 130px;
+      right: 60px;
+      font-family： 'Sansita Swashed'、筆記体;
+}
+
+.misson_contents {
+  font-size: 30px;
+  line-height: 40px;
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  font-family:
+}
+.misson_text_wrapper {
+  position: relative;
+  width: 100%;
+  height: 600px;
+}
+
+.misson_text {
+  position: absolute;
+  top: 80px;
+  left: 250px;
+  font-size: 18px;
+  color: #696969;
+  padding-bottom: 100px;
+}
+
+.preschool_wrapper {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  background-color: #C0C0C0;
+}
+
+.preschool_contents {
+  font-size: 40px;
+  line-height: 40px;
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  font-family:;
+  color: white;
+}
+
+.preschool h2{
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: 60px;
+  font-weight: lighter;
+  color: white;
+  float: left;
+  position: absolute;
+  top: 130px;
+  right: 60px;
+  font-family： 'Sansita Swashed'、筆記体;
+}
+
+.preschool_text_wrapper {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: #C0C0C0;
+}
+
+.preschool_text {
+  position: absolute;
+  top: 80px;
+  left: 250px;
+  font-size: 18px;
+  color: #696969;
+  padding-bottom: 100px;
+}
